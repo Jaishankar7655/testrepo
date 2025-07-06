@@ -1,0 +1,1 @@
+this file is made fo rthe understanding the concept of teh initialization 
